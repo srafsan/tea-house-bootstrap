@@ -1,0 +1,20 @@
+.bz-light-red {
+    background-color: #f58484;
+}
+
+.rating-icon {
+    width: 20px;
+}
+
+.btn-bz-danger {
+    background-color: rgba(234, 82, 115, 0.505);
+}
+
+footer {
+    height: 280px;
+}
+
+.icon-size {
+    width: 135px;
+    height: 40px;
+}
